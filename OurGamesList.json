@@ -1,0 +1,140 @@
+{
+    "android":
+    {
+        "ads":
+        [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "apps":
+        [
+            {
+                "name": "Farm",
+                "link": "https://play.google.com/store/apps/details?id=nursery.farm.farmer.animals.collect.vegetables.fruits.harvest.children.caring",
+                "ico": "https://play-lh.googleusercontent.com/oZNyXWh90JH1mXvlZB5DXycAxY9TnrFIwMo6LzlZPlWlMbpzX4Fzgnzkh87qJG_KYph_=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Baby Care",
+                "link": "https://play.google.com/store/apps/details?id=baby.care.kid.toy.cute.fun.play",
+                "ico": "https://play-lh.googleusercontent.com/_6HU9BdSu04GvytGJH5NI9Ww-VRY_D3Jmaoha1ctq9aabQ3DLPu2us4OQgutvoDY9Q=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Cleaning House",
+                "link": "https://play.google.com/store/apps/details?id=clean.house.home.messy.wash.cleaning.cleanup",
+                "ico": "https://play-lh.googleusercontent.com/Ng4ti4pZorroKNXG164gB51IuIJNuoe3_71SBz1ELmSCK9xDhlc0KE8gluUpLVdLzYV5=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Dentists",
+                "link": "https://play.google.com/store/apps/details?id=dentist.doctor.teeth.tooth.health.kid",
+                "ico": "https://play-lh.googleusercontent.com/VKScMPpXtJhH90wiyTywc91l0cvWmDsU9B-6sRZMVEEdQkJJcm-4IEeYL7En2wOdEUE=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Kindergarten",
+                "link": "https://play.google.com/store/apps/details?id=kindergarten.baby.game.kid.learn.fun",
+                "ico": "https://play-lh.googleusercontent.com/7S6ZQyvUp7w0USWouKM5a8y1c-oX0fipH107uB_HpiuL-j_I3qaKoTcVI1ZODwe0IOs=w240-h480",
+                "ratio": 2
+            },
+            {
+                "name": "Car Washing",
+                "link": "https://play.google.com/store/apps/details?id=car.wash.game.fun.washing.repair",
+                "ico": "https://play-lh.googleusercontent.com/cYZgT2SYsuLvkn43YPB2y79MGUBGNDcEEUB0oR7b7UKUnwsvPI32Vq2DkXyqsvKM85M=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Professions",
+                "link": "https://play.google.com/store/apps/details?id=profession.educational.play.town.jobs.kids",
+                "ico": "https://play-lh.googleusercontent.com/2xsevv8eSmWozmnLhpHOakp2Hu0S0YZ0nKO4jZruDEEgonP3gRQ-i99YQVCnyPBk5B8=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Supermarket",
+                "link": "https://play.google.com/store/apps/details?id=supermarket.play.fun.adventure",
+                "ico": "https://play-lh.googleusercontent.com/IV4vvN7weHgjsfAoH33M8FrmJ1vhT7L0fgWbSGsfc632-Ggxk4TU9sNY5BRKNjNjMQ=w240-h480",
+                "ratio": 0
+            }
+        ]
+    },
+    "ios":
+    {
+        "ads":
+        [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "apps":
+        [
+            {
+                "name": "Farm",
+                "link": "https://apps.apple.com/ro/app/farm-adventures/id6466177418",
+                "ico": "https://play-lh.googleusercontent.com/oZNyXWh90JH1mXvlZB5DXycAxY9TnrFIwMo6LzlZPlWlMbpzX4Fzgnzkh87qJG_KYph_=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Baby Care",
+                "link": "https://apps.apple.com/ro/app/babycare-adventures/id6469687630",
+                "ico": "https://play-lh.googleusercontent.com/_6HU9BdSu04GvytGJH5NI9Ww-VRY_D3Jmaoha1ctq9aabQ3DLPu2us4OQgutvoDY9Q=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Cleaning House",
+                "link": "https://apps.apple.com/ro/app/cleaning-house-adventures/id6469706068",
+                "ico": "https://play-lh.googleusercontent.com/Ng4ti4pZorroKNXG164gB51IuIJNuoe3_71SBz1ELmSCK9xDhlc0KE8gluUpLVdLzYV5=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Dentists",
+                "link": "https://apps.apple.com/ro/app/dentist-vet-clinic/id6472048912",
+                "ico": "https://play-lh.googleusercontent.com/VKScMPpXtJhH90wiyTywc91l0cvWmDsU9B-6sRZMVEEdQkJJcm-4IEeYL7En2wOdEUE=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Kindergarten",
+                "link": "https://apps.apple.com/ro/app/kindergarten-adventures/id6472052547",
+                "ico": "https://play-lh.googleusercontent.com/7S6ZQyvUp7w0USWouKM5a8y1c-oX0fipH107uB_HpiuL-j_I3qaKoTcVI1ZODwe0IOs=w240-h480",
+                "ratio": 2
+            },
+            {
+                "name": "Car Washing",
+                "link": "https://apps.apple.com/ro/app/carwash-adventures/id6472057093",
+                "ico": "https://play-lh.googleusercontent.com/cYZgT2SYsuLvkn43YPB2y79MGUBGNDcEEUB0oR7b7UKUnwsvPI32Vq2DkXyqsvKM85M=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Professions",
+                "link": "https://apps.apple.com/ro/app/professions-adventures/id6479375068",
+                "ico": "https://play-lh.googleusercontent.com/2xsevv8eSmWozmnLhpHOakp2Hu0S0YZ0nKO4jZruDEEgonP3gRQ-i99YQVCnyPBk5B8=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Supermarket",
+                "link": "https://apps.apple.com/ro/app/supermarket-adventures/id6584512617",
+                "ico": "https://play-lh.googleusercontent.com/IV4vvN7weHgjsfAoH33M8FrmJ1vhT7L0fgWbSGsfc632-Ggxk4TU9sNY5BRKNjNjMQ=w240-h480",
+                "ratio": 0
+            }
+        ]
+    }
+}
