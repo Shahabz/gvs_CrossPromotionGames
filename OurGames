@@ -1,0 +1,146 @@
+{
+    "android":
+    {
+        "ads":
+        [
+            1,
+            1,
+            0,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "apps":
+        [
+            {
+                "name": "Food Truck Frenzy:Cooking Game",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.foodtruck",
+                "ico": "https://play-lh.googleusercontent.com/jBbGJla_7L8XGewIzJRuppAJDjdGbDgHymV9K8yRinJf_b35GKMHRWsyVPaGnxtuuA=w512-h512",
+                "ratio": 3
+            },
+            {
+                "name": "Farm Business Tycoon",
+                "link": "https://play.google.com/store/apps/details?id=com.gamevillagestudio.farmbusinesstycoon",
+                "ico": "https://play-lh.googleusercontent.com/1vdUL_ECup9HKT2276wHD2Kw8b5ITnCPDZ_1Dolw8b2zFHfvEe26B90hIToYCViVEeo=w512-h512",
+                "ratio": 3
+            },
+            {
+                "name": "Hexa Flowers Puzzle :Match Fun",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.hexaflowerpuzzle",
+                "ico": "https://play-lh.googleusercontent.com/rju3TWTPhi0CYbYgQuvbojlgKpfTwiVls88pn0Ltgfse3RWCvWo9kGWs_0pDtaYEHR0J=w512-h512",
+                "ratio": 3
+            },
+            {
+                "name": "Bird Match:Flock Together Sort",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.BirdSorter",
+                "ico": "https://play-lh.googleusercontent.com/8B4Til-78MMtGD9urfaC59IU6XdV7P3wfDZlKGnro1IH43loR8n7x_g0ITpPCAOLCmif=w512-h512",
+                "ratio": 1
+            },
+            {
+                "name": "Sniper Shooter",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.SniperShooter",
+                "ico": "https://play-lh.googleusercontent.com/GrMI6-pj6CaSdPRURA96-Y61heg3bpW2aqWFO4ErsrwvjU-bGgLYenb9IyBBMH3yRUg=w512-h512",
+                "ratio": 2
+            },
+            {
+                "name": "Mosquito Frenzy",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.mosquitosmash",
+                "ico": "https://play-lh.googleusercontent.com/BesmOxV-ifEJOjWgjBn8OBYgWm1bjEusx5kF3FYvIrmxWoOTHoknx75VDDg6cH8Cvw=w512-h512",
+                "ratio": 1
+            },
+            {
+                "name": "bug smash game",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.bugsmash",
+                "ico": "https://play-lh.googleusercontent.com/my50C_kB8tkKcr2BPDckghor7ckjWvkSk8Od4zZGvUVxj5nvnjru23r7IJ9buaQRcu0M=w512-h512",
+                "ratio": 3
+            },
+            {
+                "name": "Zombie Highway Rampage",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.ZombieHighway",
+                "ico": "https://play-lh.googleusercontent.com/mh_wmQhrZVfx379eOn9erCnPI216zGUiTZZroTBq8xvnt8kPVFmZjCr5tIQN0n6uBw=w512-h512",
+                "ratio": 0
+            },
+            {
+                "name": "Screw Wood",
+                "link": "https://play.google.com/store/apps/details?id=com.gvs.screwpuzzle",
+                "ico": "https://play-lh.googleusercontent.com/F-Q_DcXvJf14hlNYRW__NmJuos9wKMaPwzMzkxLD-rc5ZMImDVW1hGPz5BDtWG-OHLo=w512-h512",
+                "ratio": 0
+            }
+        ]
+    },
+    "ios":
+    {
+        "ads":
+        [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "apps":
+        [
+            {
+                "name": "Farm",
+                "link": "https://apps.apple.com/ro/app/farm-adventures/id6466177418",
+                "ico": "https://play-lh.googleusercontent.com/oZNyXWh90JH1mXvlZB5DXycAxY9TnrFIwMo6LzlZPlWlMbpzX4Fzgnzkh87qJG_KYph_=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Baby Care",
+                "link": "https://apps.apple.com/ro/app/babycare-adventures/id6469687630",
+                "ico": "https://play-lh.googleusercontent.com/_6HU9BdSu04GvytGJH5NI9Ww-VRY_D3Jmaoha1ctq9aabQ3DLPu2us4OQgutvoDY9Q=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Cleaning House",
+                "link": "https://apps.apple.com/ro/app/cleaning-house-adventures/id6469706068",
+                "ico": "https://play-lh.googleusercontent.com/Ng4ti4pZorroKNXG164gB51IuIJNuoe3_71SBz1ELmSCK9xDhlc0KE8gluUpLVdLzYV5=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Dentists",
+                "link": "https://apps.apple.com/ro/app/dentist-vet-clinic/id6472048912",
+                "ico": "https://play-lh.googleusercontent.com/VKScMPpXtJhH90wiyTywc91l0cvWmDsU9B-6sRZMVEEdQkJJcm-4IEeYL7En2wOdEUE=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Kindergarten",
+                "link": "https://apps.apple.com/ro/app/kindergarten-adventures/id6472052547",
+                "ico": "https://play-lh.googleusercontent.com/7S6ZQyvUp7w0USWouKM5a8y1c-oX0fipH107uB_HpiuL-j_I3qaKoTcVI1ZODwe0IOs=w240-h480",
+                "ratio": 2
+            },
+            {
+                "name": "Car Washing",
+                "link": "https://apps.apple.com/ro/app/carwash-adventures/id6472057093",
+                "ico": "https://play-lh.googleusercontent.com/cYZgT2SYsuLvkn43YPB2y79MGUBGNDcEEUB0oR7b7UKUnwsvPI32Vq2DkXyqsvKM85M=w240-h480",
+                "ratio": 1
+            },
+            {
+                "name": "Professions",
+                "link": "https://apps.apple.com/ro/app/professions-adventures/id6479375068",
+                "ico": "https://play-lh.googleusercontent.com/2xsevv8eSmWozmnLhpHOakp2Hu0S0YZ0nKO4jZruDEEgonP3gRQ-i99YQVCnyPBk5B8=w240-h480",
+                "ratio": 3
+            },
+            {
+                "name": "Supermarket",
+                "link": "https://apps.apple.com/ro/app/supermarket-adventures/id6584512617",
+                "ico": "https://play-lh.googleusercontent.com/IV4vvN7weHgjsfAoH33M8FrmJ1vhT7L0fgWbSGsfc632-Ggxk4TU9sNY5BRKNjNjMQ=w240-h480",
+                "ratio": 0
+            }
+        ]
+    }
+}
