@@ -20,60 +20,70 @@
         [
             {
                 "name": "Food Truck Frenzy:Cooking Game",
+                "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.foodtruck",
                 "ico": "https://play-lh.googleusercontent.com/jBbGJla_7L8XGewIzJRuppAJDjdGbDgHymV9K8yRinJf_b35GKMHRWsyVPaGnxtuuA=w512-h512",
                 "ratio": 3
             },
             {
                 "name": "Farm Business Tycoon",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gamevillagestudio.farmbusinesstycoon",
                 "ico": "https://play-lh.googleusercontent.com/1vdUL_ECup9HKT2276wHD2Kw8b5ITnCPDZ_1Dolw8b2zFHfvEe26B90hIToYCViVEeo=w512-h512",
                 "ratio": 3
             },
             {
                 "name": "Hexa Flowers Puzzle :Match Fun",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.hexaflowerpuzzle",
                 "ico": "https://play-lh.googleusercontent.com/rju3TWTPhi0CYbYgQuvbojlgKpfTwiVls88pn0Ltgfse3RWCvWo9kGWs_0pDtaYEHR0J=w512-h512",
                 "ratio": 3
             },
             {
                 "name": "Bird Match:Flock Together Sort",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.BirdSorter",
                 "ico": "https://play-lh.googleusercontent.com/8B4Til-78MMtGD9urfaC59IU6XdV7P3wfDZlKGnro1IH43loR8n7x_g0ITpPCAOLCmif=w512-h512",
                 "ratio": 1
             },
             {
                 "name": "Sniper Shooter",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.SniperShooter",
                 "ico": "https://play-lh.googleusercontent.com/GrMI6-pj6CaSdPRURA96-Y61heg3bpW2aqWFO4ErsrwvjU-bGgLYenb9IyBBMH3yRUg=w512-h512",
                 "ratio": 2
             },
             {
                 "name": "Mosquito Frenzy",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.mosquitosmash",
                 "ico": "https://play-lh.googleusercontent.com/BesmOxV-ifEJOjWgjBn8OBYgWm1bjEusx5kF3FYvIrmxWoOTHoknx75VDDg6cH8Cvw=w512-h512",
                 "ratio": 1
             },
             {
                 "name": "bug smash game",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.bugsmash",
                 "ico": "https://play-lh.googleusercontent.com/my50C_kB8tkKcr2BPDckghor7ckjWvkSk8Od4zZGvUVxj5nvnjru23r7IJ9buaQRcu0M=w512-h512",
                 "ratio": 3
             },
             {
                 "name": "Zombie Highway Rampage",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.ZombieHighway",
                 "ico": "https://play-lh.googleusercontent.com/mh_wmQhrZVfx379eOn9erCnPI216zGUiTZZroTBq8xvnt8kPVFmZjCr5tIQN0n6uBw=w512-h512",
                 "ratio": 0
             },
             {
                 "name": "Screw Wood",
+                 "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.screwpuzzle",
                 "ico": "https://play-lh.googleusercontent.com/F-Q_DcXvJf14hlNYRW__NmJuos9wKMaPwzMzkxLD-rc5ZMImDVW1hGPz5BDtWG-OHLo=w512-h512",
                 "ratio": 0
             },
                 {
                 "name": "Screw Wood",
+                     "bundle_id" :""
                 "link": "https://play.google.com/store/apps/details?id=com.gvs.screwpuzzle",
                 "ico": "https://play-lh.googleusercontent.com/F-Q_DcXvJf14hlNYRW__NmJuos9wKMaPwzMzkxLD-rc5ZMImDVW1hGPz5BDtWG-OHLo=w512-h512",
                 "ratio": 0
